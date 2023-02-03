@@ -1,8 +1,12 @@
-# House-Price-Prediction-using-Regression
-This price prediction of house price helps to determine the selling price of a house and can help the customer to know the right time to purchase a house. All the factors influencing the price change are considered.
+# Boston Housing Prediction Analysis - Regression
 
-Dataset Information 
+**Complete Video Tutorial:** link
 
+# Dataset Information
+
+Boston House Prices Dataset was collected in 1978 and has 506 entries with 14 attributes or features for homes from various suburbs in Boston.
+
+```
 Boston Housing Dataset Attribute Information (in order):
         - CRIM     per capita crime rate by town
         - ZN       proportion of residential land zoned for lots over 25,000 sq.ft.
@@ -18,18 +22,23 @@ Boston Housing Dataset Attribute Information (in order):
         - B        1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
         - LSTAT    % lower status of the population
         - MEDV     Median value of owner-occupied homes in $1000's
-      
-Download link: https://www.kaggle.com/puxama/bostoncsv
+```
 
-Libraries:
-pandas
-matplotlib
-seaborn
-scikit-learn
+**Download link:** https://www.kaggle.com/puxama/bostoncsv
 
-Algorithms:
-Linear Regression
-Decision Tree
-Random Forest
-Extra Tress
-XGBoost
+# Libraries
+
+<li>pandas
+<li>matplotlib
+<li>seaborn
+<li>scikit-learn
+
+# Algorithms
+
+<li>Linear Regression
+<li>Decision Tree
+<li>Random Forest
+<li>Extra Tress
+<li>XGBoost
+  
+**Mean Squared Error:** 10.0
